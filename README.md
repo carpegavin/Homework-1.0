@@ -1,6 +1,11 @@
 See readme.txt for specific changes made to the html and css
 
-SEO and accessibility enhancement for the Horiseon company.
+SEO and Accessibility Optimization for the Horiseon  Marketing Company.
+
+
+The goal of this project was to do the following to the code:
+1. replace generic tags with semantic HTML elements.
+2. 
 
 
 
