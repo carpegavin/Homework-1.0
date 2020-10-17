@@ -1,54 +1,39 @@
-See readme.txt for specific changes made to the html and css
+# SEO and Accessibility Enrichment for the Horiseon  Marketing Company's Website
+
+## The goal of this project was to do the following to the source code:
+  * replace generic tags with semantic HTML elements
+  * ensure the HTML code was written in a logical structure
+  * add accessible alt attributes to the img tags
+  * ensure heading elements are in a sequential order
+  * finally, write a clear and consise title
+ 
+These tasks were to be performed in oder to better optimize the site for search engines; to make the site more accessible; to make the code clean, concise, and more organized than when I was first tasked with it.
+
+## To succeed, I made the following changes to the source code:
+
+  * added a title
+  * added alt and title tags to the images
+  * replaced div tags with header tags and changed the corresponding CSS
+  * within the header tag, to express navigation, I replaced the div tags with nav tags
+  * added section tags to the body and separated it into three articles and changed the corresponding CSS
+  * added footer tags to the author's details and changed the corresponding CSS
+  * added aside tags to the content as it appears on the right side of the UI
+  * added figure tags around the hero class to denote a stand alone photo
+  * rearranged CSS into a more logical structure and added comments
+  
+  
+  
+  ![Horiseon](https://github.com/carpegavin/Homework-1.0/blob/main/02-Homework/Assets/01-html-css-git-homework-demo.png?raw=true)
+  
+  
+  
+ 
+  
+GNU GENERAL PUBLIC LICENSE
+                   Version 3, 29 June 2007
 
 
-Your Project Title
-Description
-Your GitHub profile is an extremely important aspect of your public identity as a developer. A well-crafted one allows you to show off your work to other developers as well as potential employers. An important component of your GitHub profile—and one that many new developers often overlook—is the README.md file.
+© 2020 Gavin H Phill, life_is_absurd, Inc. brand. All Rights Reserved.
 
-The quality of a README often differentiates a good project from a bad project. A good one takes advantage of the opportunity to explain and showcase what your application does, justify the technologies used, and even talk about some of the challenges you faced and features you hope to implement in the future. A good README helps you stand out among the large crowd of developers putting their work on GitHub.
+   
 
-There's no one right way to structure a good README. There is one very wrong way, however, and that is to not include a README at all or to create a very anemic one. This guide outlines a few best practices. As you progress in your career, you will develop your own ideas about what makes a good README.
-
-At a minimum, your project README needs a title and a short description explaining the what, why, and how. What was your motivation? Why did you build this project? (Note: The answer is not "Because it was a homework assignment.") What problem does it solve? What did you learn? What makes your project stand out? If your project has a lot of features, consider adding a heading called "Features" and listing them here.
-
-If you're new to Markdown, read the GitHub guide on Mastering Markdown.
-
-If you need an example of a good README, check out the VSCode repository.
-
-Table of Contents (Optional)
-If your README is very long, add a table of contents to make it easy for users to find what they need.
-
-Installation
-Usage
-Credits
-License
-Installation
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
-
-Usage
-Provide instructions and examples for use. Include screenshots as needed.
-
-Credits
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
-
-License
-The last section of a good README is a license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, use https://choosealicense.com/
-
-🏆 The sections listed above are the minimum for a good README, but your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
-
-Badges
-badmath
-
-Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by shields.io. You may not understand what they all represent now, but you will in time.
-
-Contributing
-If you created an application or package and would like other developers to contribute it, you will want to add guidelines for how to do so. The Contributor Covenant is an industry standard, but you can always write your own.
-
-Tests
-Go the extra mile and write tests for your application. Then provide examples on how to run them.
-
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
