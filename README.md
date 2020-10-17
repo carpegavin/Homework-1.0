@@ -1,27 +1,27 @@
-See readme.txt for specific changes made to the html and css
-
 SEO and Accessibility Optimization for the Horiseon  Marketing Company.
 
-
 The goal of this project was to do the following to the code:
-1. replace generic tags with semantic HTML elements.
-2. 
+  1. replace generic tags with semantic HTML elements.
+  2. ensure the HTML code was written in a logical structure
+  3. add accessible alt attributes to the img tags
+  4. enure heading elements are in a sequential order
+  5. finally, write a clear and consise tite
+ 
+These tasks were to be performed in oder to better optimize the site for search engines; to make the site more accessible; to make the code clean, concise, and more organized than when I was first tasked with it.
 
+To succeed, I made the following changes to the source code:
 
+  1. added a title
+  2. added alt and title tags to the images
+  3. replaced div tags with header tags and changed the corresponding CSS
+  4. within the header tag, to express navigation, I replaced the div tags with nav tags
+  5. added section tags to the body and separated it into three articles changed the corresponding CSS
+  6. added footer tags to the author's details and changed the corresponding CSS
+  7. added aside tags to the content as it appears on the right side of the UI/UX
+  8. added figure tags around the hero class to denote a stand alone photo
+  9. rearranged CSS into a more logical structure and added comments
+  
 
-
-At a minimum, your project README needs a title and a short description explaining the what, why, and how. What was your motivation? Why did you build this project? (Note: The answer is not "Because it was a homework assignment.") What problem does it solve? What did you learn? What makes your project stand out? If your project has a lot of features, consider adding a heading called "Features" and listing them here.
-
-
-Usage
-Provide instructions and examples for use. Include screenshots as needed.
-
-Credits
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
 
 License
 The last section of a good README is a license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, use https://choosealicense.com/
