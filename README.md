@@ -22,16 +22,8 @@ To succeed, I made the following changes to the source code:
   9. rearranged CSS into a more logical structure and added comments
   
   
-  GNU GENERAL PUBLIC LICENSE
-                    
-                    Version 3, 29 June 2007
-
- Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
- Everyone is permitted to copy and distribute verbatim copies
- of this license document, but changing it is not allowed.
   
-
-[![npm][npm-badge]][npm-badge-url]
+  [![npm][npm-badge]][npm-badge-url]
 [![license][npm-license]][npm-license-url]
 
 [npm-badge-url]: https://photos.google.com/photo/AF1QipPVESaOSKo7fzXARrJ4h9AyfSQ3JLRW8aL2wStc
