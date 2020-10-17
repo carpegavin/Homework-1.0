@@ -33,5 +33,5 @@ GNU GENERAL PUBLIC LICENSE
 
 © 2020 Gavin H Phill, life_is_absurd, Inc. brand. All Rights Reserved.
 
-   <a href=”https://twitter.com/pirategavin"><img src=”https://img.shields.io/twitter/follow/pirategavin?label=Follow&style=social"></a>
+   
 
