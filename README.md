@@ -30,5 +30,5 @@ To succeed, I made the following changes to the source code:
  Everyone is permitted to copy and distribute verbatim copies
  of this license document, but changing it is not allowed.
   
-[npm-badge-url]: https://photos.google.com/photo/AF1QipPVESaOSKo7fzXARrJ4h9AyfSQ3JLRW8aL2wStc
+npm-badge-url: https://photos.google.com/photo/AF1QipPVESaOSKo7fzXARrJ4h9AyfSQ3JLRW8aL2wStc
 © 2020 Gavin H Phill, life_is_absurd, Inc. brand. All Rights Reserved.
