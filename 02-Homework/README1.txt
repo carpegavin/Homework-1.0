@@ -8,7 +8,7 @@
 6. Added footer tags to the author's details and changed the corresponding css to match.
 7. Added aside tags to separate the content aside of the body of the page separated into articles.
 8. Added figure tags around the hero class to denote a stand alone photo on the main page.
-10. Removed ID tags
+10. 
 11. Removed superfluous css within the aside tag
 12. Rearranged css and added comments
 
