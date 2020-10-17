@@ -1,4 +1,4 @@
-# SEO and Accessibility Enrichment for the Horiseon  Marketing Company.
+# SEO and Accessibility Enrichment for the Horiseon  Marketing Company's Website
 
 ## The goal of this project was to do the following to the source code:
   * replace generic tags with semantic HTML elements
