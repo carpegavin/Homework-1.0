@@ -23,6 +23,9 @@ These tasks were to be performed in oder to better optimize the site for search 
   
   
   
+  ![Horiseon](https://github.com/carpegavin/Homework-1.0/blob/main/02-Homework/Assets/01-html-css-git-homework-demo.png?raw=true)
+  
+  
   
 GNU GENERAL PUBLIC LICENSE
                    Version 3, 29 June 2007
