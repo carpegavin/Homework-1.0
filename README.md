@@ -1,7 +1,7 @@
-SEO and Accessibility Optimization for the Horiseon  Marketing Company.
+## SEO and Accessibility Optimization for the Horiseon  Marketing Company.
 
 The goal of this project was to do the following to the code:
-  1. replace generic tags with semantic HTML elements.
+  * [replace generic tags with semantic HTML elements.]
   2. ensure the HTML code was written in a logical structure
   3. add accessible alt attributes to the img tags
   4. enure heading elements are in a sequential order
@@ -24,10 +24,7 @@ To succeed, I made the following changes to the source code:
   
   
   
-[![license][npm-license]][npm-license-url]
 
-[npm-badge-url]: https://photos.google.com/photo/AF1QipPVESaOSKo7fzXARrJ4h9AyfSQ3JLRW8aL2wStc
-[npm-license]: https://img.shields.io/npm/l/@stencil/core.svg
 
 
 © 2020 Gavin H Phill, life_is_absurd, Inc. brand. All Rights Reserved.
