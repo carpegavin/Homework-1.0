@@ -24,7 +24,8 @@ These tasks were to be performed in oder to better optimize the site for search 
   
   
   
-
+GNU GENERAL PUBLIC LICENSE
+                   Version 3, 29 June 2007
 
 
 © 2020 Gavin H Phill, life_is_absurd, Inc. brand. All Rights Reserved.
