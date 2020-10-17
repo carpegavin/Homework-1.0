@@ -21,17 +21,14 @@ To succeed, I made the following changes to the source code:
   8. added figure tags around the hero class to denote a stand alone photo
   9. rearranged CSS into a more logical structure and added comments
   
+  
+  GNU GENERAL PUBLIC LICENSE
+                    
+                    Version 3, 29 June 2007
 
+ Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+ Everyone is permitted to copy and distribute verbatim copies
+ of this license document, but changing it is not allowed.
+  
 
-License
-The last section of a good README is a license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, use https://choosealicense.com/
-
-🏆 The sections listed above are the minimum for a good README, but your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
-
-Badges
-badmath
-
-Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by shields.io. You may not understand what they all represent now, but you will in time.
-
-
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+© 2020 Gavin H Phill, life_is_absurd, Inc. brand. All Rights Reserved.
