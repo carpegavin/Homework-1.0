@@ -34,7 +34,7 @@ To succeed, I made the following changes to the source code:
 [![npm][npm-badge]][npm-badge-url]
 [![license][npm-license]][npm-license-url]
 
-[npm-badge-url]: https://www.npmjs.com/package/@stencil/core
+[npm-badge-url]: https://photos.google.com/photo/AF1QipPVESaOSKo7fzXARrJ4h9AyfSQ3JLRW8aL2wStc
 [npm-license]: https://img.shields.io/npm/l/@stencil/core.svg
 
 
