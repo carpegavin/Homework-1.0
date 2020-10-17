@@ -11,15 +11,15 @@ These tasks were to be performed in oder to better optimize the site for search 
 
 ## To succeed, I made the following changes to the source code:
 
-  1. added a title
-  2. added alt and title tags to the images
-  3. replaced div tags with header tags and changed the corresponding CSS
-  4. within the header tag, to express navigation, I replaced the div tags with nav tags
-  5. added section tags to the body and separated it into three articles changed the corresponding CSS
-  6. added footer tags to the author's details and changed the corresponding CSS
-  7. added aside tags to the content as it appears on the right side of the UI/UX
-  8. added figure tags around the hero class to denote a stand alone photo
-  9. rearranged CSS into a more logical structure and added comments
+  * [added a title]
+  * [added alt and title tags to the images]
+  * [replaced div tags with header tags and changed the corresponding CSS]
+  * [within the header tag, to express navigation, I replaced the div tags with nav tags]
+  * [added section tags to the body and separated it into three articles changed the corresponding CSS]
+  * [added footer tags to the author's details and changed the corresponding CSS]
+  * [added aside tags to the content as it appears on the right side of the UI/UX]
+  * [added figure tags around the hero class to denote a stand alone photo]
+  * [rearranged CSS into a more logical structure and added comments]
   
   
   
