@@ -2,10 +2,10 @@
 
 The goal of this project was to do the following to the code:
   * [replace generic tags with semantic HTML elements.]
-  2. ensure the HTML code was written in a logical structure
-  3. add accessible alt attributes to the img tags
-  4. enure heading elements are in a sequential order
-  5. finally, write a clear and consise tite
+  * [ensure the HTML code was written in a logical structure]
+  * [add accessible alt attributes to the img tags]
+  * [enure heading elements are in a sequential order]
+  * [finally, write a clear and consise tite]
  
 These tasks were to be performed in oder to better optimize the site for search engines; to make the site more accessible; to make the code clean, concise, and more organized than when I was first tasked with it.
 
