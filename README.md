@@ -9,7 +9,7 @@
  
 These tasks were to be performed in oder to better optimize the site for search engines; to make the site more accessible; to make the code clean, concise, and more organized than when I was first tasked with it.
 
-To succeed, I made the following changes to the source code:
+## To succeed, I made the following changes to the source code:
 
   1. added a title
   2. added alt and title tags to the images
